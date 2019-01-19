@@ -12,6 +12,8 @@ jieba = "*"
 djangorestframework = "*"
 pygments = "*"
 requests = "*"
+beautifulsoup4 = "*"
+lxml = "*"
 
 [requires]
 python_version = "3.7"
